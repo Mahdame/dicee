@@ -1,16 +1,7 @@
-# dicee
+# Dicee
 
-Dicee
+Rolagem de dados D6.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/22501217/174670252-e1a9bda5-c6de-4b6b-9396-f6ada5a6efa3.gif" width="35%" height="35%">
